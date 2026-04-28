@@ -6,3 +6,6 @@ Product_Analyse
 __pycache__/
 .idea
 .ipynb_checkpoints
+tree.py
+.venv
+
